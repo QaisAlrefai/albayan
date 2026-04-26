@@ -8,7 +8,7 @@ filelock==3.20.3
 freeze-core==0.5.0
 greenlet==3.3.1
 idna==3.11
-lief==0.17.1
+lief==0.17.2
 packaging==26.0
 pydantic==2.12.5
 pydantic_core==2.41.5
@@ -18,7 +18,7 @@ PyQt6_sip==13.11.0
 python-msilib==0.5.0
 QtAwesome==1.4.1
 QtPy==2.4.3
-requests==2.32.5
+requests==2.33.0
 setuptools==80.10.2
 SQLAlchemy==2.0.46
 striprtf==0.0.29
